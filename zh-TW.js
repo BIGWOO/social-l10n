@@ -18,24 +18,24 @@ l10n.translations.zhTW = {
     huddle: 'Huddle'
   },
   login: {
-    title: '從我的 %source 上傳',
+    title: '從我的%source上傳',
     lineA: {
-      gdrive: '從自己的 Google雲端硬碟帳號取得檔案並上傳',
-      dropbox: '從自己的 Dropbox 帳號取得檔案並上傳',
-      box: '從自己的 Box 帳號取得檔案並上傳',
-      evernote: '從自己的 Evernote 帳號取得檔案並上傳',
+      gdrive: '從自己的Google雲端硬碟帳號取得檔案並上傳',
+      dropbox: '從自己的Dropbox帳號取得檔案並上傳',
+      box: '從自己的Box帳號取得檔案並上傳',
+      evernote: '從自己的Evernote帳號取得檔案並上傳',
       instagram: '從自己或好友的相簿上傳照片',
       flickr: '從自己或好友的相簿上傳照片',
       facebook: '從自己或好友的相簿上傳照片',
       vk: '從自己的帳號上傳照片'
     },
     lineB: '您只需要登入並連接您的帳號',
-    button: '連接 %source',
-    note: '我們將另開視窗協助您連結您的 %source account 帳號，若您使用iPhone或iPad但不是直接使用Safari或Chrome，第一次連接可能出現空白畫面，敬請見諒',
-    cookieWarning: '您的瀏覽器已阻擋了第三方 Cookie 的使用 ' +
+    button: '連接%source',
+    note: '初次連結如果沒有正常返回，請重新整理',
+    cookieWarning: '您的瀏覽器已阻擋了第三方Cookie的使用 ' +
       '連接授權至少需要 ' +
       '<code>social.uploadcare.com</code> 網域的Cookie.',
-    cookieRetry: "我已經取消阻擋 Cookie , 我想要再試一次！"
+    cookieRetry: "我已經取消阻擋Cookie , 我想要再試一次！"
   },
   pagination: {
     loading: '正在載入更多項目...',
